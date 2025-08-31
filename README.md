@@ -1,6 +1,3 @@
-# KaranNalugade
-Portfolio
-[portfolio.html](https://github.com/user-attachments/files/22064308/portfolio.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
